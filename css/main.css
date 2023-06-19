@@ -357,6 +357,7 @@ html, body{
 
 .project--img{
    border-radius: 10px;
+   object-fit: contain;
 }
 
 .project__title{

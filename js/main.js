@@ -18,5 +18,3 @@ darkModeBtn.onclick = function(){
       localStorage.setItem('DarkMode', 'light');
    }
 }
-
-console.log('Привет Денис Думаю Да!')
