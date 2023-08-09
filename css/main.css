@@ -57,6 +57,7 @@ html, body{
    /* Light mode*/
    background-color: var(--page-bg);
    color: var(--text-color);
+
 }
 
 
@@ -414,6 +415,8 @@ html, body{
    align-items: center;
    text-align: center;
    row-gap: 40px;
+
+   word-spacing: 0.2em;
 }
 .content-list a{
    color: var(--title-1);
